@@ -1,5 +1,3 @@
-using System;
-
 namespace GithubActivity.Cli.Logging;
 
 public class ConsoleLogger : BaseLogger
