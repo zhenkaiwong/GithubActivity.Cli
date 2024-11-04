@@ -9,13 +9,11 @@ A repository for Roadmap.sh Backend Developer project: Github User Activity CLI 
 
 ## Commands
 
-### Adding a new task
-
 ```
 dotnet run <username>
 ```
 
-### Output:
+## Output:
 
 ```
 - Pushed 3 commits to kamranahmedse/developer-roadmap
