@@ -23,7 +23,3 @@ dotnet run <username>
 ```
 
 **Note**: Not all events are support. For now only supports `CreateEvent` and `PushEvent`
-
-# URL to this project
-
-https://roadmap.sh/projects/task-tracker
