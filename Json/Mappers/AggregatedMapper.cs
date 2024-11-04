@@ -11,6 +11,7 @@ public class AggregatedMapper : BaseMapper
   {
     MapperDictionary = new Dictionary<string, BaseMapper>();
     MapperDictionary.Add("PushEvent", new PushEventMapper());
+    MapperDictionary.Add("CreateEvent", new CreateEventMapper());
   }
 
   protected bool TryGetMapper(string eventType, out BaseMapper? result, out string error)
