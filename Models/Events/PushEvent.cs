@@ -1,4 +1,3 @@
-using System;
 using GithubActivity.Cli.Models.Events.Payloads;
 
 namespace GithubActivity.Cli.Models.Events;

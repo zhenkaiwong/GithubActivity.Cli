@@ -1,5 +1,3 @@
-using System;
-
 namespace GithubActivity.Cli.Models;
 
 public class Repository
